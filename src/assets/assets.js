@@ -34,44 +34,43 @@ export const assets = {
 }
 
 export const projectsData = [
-    {
-      title: "Skyline Haven",
-      price: "$2,50,000",
-      location: "California",
-      image: project_img_1
-    },
-    {
-      title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
-      image: project_img_2
-    },
-    {
-      title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
-      image: project_img_3
-    },
-    {
-      title: "Central Square",
-      price: "$2,50,000",
-      location: "Los Angeles",
-      image: project_img_4
-    },
-    {
-      title: "Vista Verde",
-      price: "$2,50,000",
-      location: "San Francisco",
-      image: project_img_5
-    },
-    {
-      title: "Serenity Suites",
-      price: "$2,50,000",
-      location: "Chicago",
-      image: project_img_6
-    },
-    
-  ];
+  {
+    title: "Skyline Haven",
+    price: "R$ 1.250.000", // $250,000 * 5
+    location: "Califórnia",
+    image: project_img_1,
+  },
+  {
+    title: "Vista Verde",
+    price: "R$ 1.250.000", // $250,000 * 5
+    location: "São Francisco",
+    image: project_img_2,
+  },
+  {
+    title: "Serenity Suites",
+    price: "R$ 1.250.000", // $250,000 * 5
+    location: "Chicago",
+    image: project_img_3,
+  },
+  {
+    title: "Central Square",
+    price: "R$ 1.250.000", // $250,000 * 5
+    location: "Los Angeles",
+    image: project_img_4,
+  },
+  {
+    title: "Vista Verde",
+    price: "R$ 1.250.000", // $250,000 * 5
+    location: "São Francisco",
+    image: project_img_5,
+  },
+  {
+    title: "Serenity Suites",
+    price: "R$ 1.250.000", // $250,000 * 5
+    location: "Chicago",
+    image: project_img_6,
+  },
+];
 
   export const testimonialsData = [
     {
