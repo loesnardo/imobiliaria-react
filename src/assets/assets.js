@@ -72,29 +72,29 @@ export const projectsData = [
   },
 ];
 
-  export const testimonialsData = [
-    {
-        name: "Donald Jackman",
-        title: "Marketing Manager",
-        image: profile_img_1,
-        alt: "Portrait of Donald Jackman",
-        rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
-    },
-    {
-        name: "Richard Nelson",
-        title: "UI/UX Designer",
-        image: profile_img_2,
-        alt: "Portrait of Richard Nelson",
-        rating: 4,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
-    },
-    {
-        name: "James Washington",
-        title: "Co-Founder",
-        image: profile_img_3,
-        alt: "Portrait of James Washington",
-        rating: 5,
-        text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
-    }
+export const testimonialsData = [
+  {
+      name: "Donald Jackman",
+      title: "Gerente de Marketing",
+      image: profile_img_1,
+      alt: "Retrato de Donald Jackman",
+      rating: 5,
+      text: "Desde a primeira reunião, eles entenderam minha visão e me ajudaram a encontrar a propriedade perfeita. A atenção aos detalhes e o compromisso com a satisfação do cliente são incomparáveis."
+  },
+  {
+      name: "Richard Nelson",
+      title: "Designer UI/UX",
+      image: profile_img_2,
+      alt: "Retrato de Richard Nelson",
+      rating: 4,
+      text: "Desde a primeira reunião, eles entenderam minha visão e me ajudaram a encontrar a propriedade perfeita. A atenção aos detalhes e o compromisso com a satisfação do cliente são incomparáveis."
+  },
+  {
+      name: "James Washington",
+      title: "Co-Fundador",
+      image: profile_img_3,
+      alt: "Retrato de James Washington",
+      rating: 5,
+      text: "Desde a primeira reunião, eles entenderam minha visão e me ajudaram a encontrar a propriedade perfeita. A atenção aos detalhes e o compromisso com a satisfação do cliente são incomparáveis."
+  }
 ];
