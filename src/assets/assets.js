@@ -18,19 +18,19 @@ import profile_img_2 from './profile_img_2.png'
 import profile_img_3 from './profile_img_3.png'
 
 export const assets = {
-    logo,
-    logo_dark,
-    cross_icon,
-    menu_icon,
-    star_icon,
-    header_img,
-    brand_img,
-    project_img_1,
-    project_img_2,
-    project_img_3,
-    project_img_4,
-    left_arrow,
-    right_arrow,
+  logo,
+  logo_dark,
+  cross_icon,
+  menu_icon,
+  star_icon,
+  header_img,
+  brand_img,
+  project_img_1,
+  project_img_2,
+  project_img_3,
+  project_img_4,
+  left_arrow,
+  right_arrow,
 }
 
 export const projectsData = [
@@ -74,27 +74,27 @@ export const projectsData = [
 
 export const testimonialsData = [
   {
-      name: "Donald Jackman",
-      title: "Gerente de Marketing",
-      image: profile_img_1,
-      alt: "Retrato de Donald Jackman",
-      rating: 5,
-      text: "Desde a primeira reunião, eles entenderam minha visão e me ajudaram a encontrar a propriedade perfeita. A atenção aos detalhes e o compromisso com a satisfação do cliente são incomparáveis."
+    name: "Donald Jackman",
+    title: "Gerente de Marketing",
+    image: profile_img_1,
+    alt: "Retrato de Donald Jackman",
+    rating: 5,
+    text: "Desde a primeira reunião, eles entenderam minha visão e me ajudaram a encontrar a propriedade perfeita. A atenção aos detalhes e o compromisso com a satisfação do cliente são incomparáveis."
   },
   {
-      name: "Richard Nelson",
-      title: "Designer UI/UX",
-      image: profile_img_2,
-      alt: "Retrato de Richard Nelson",
-      rating: 4,
-      text: "Desde a primeira reunião, eles entenderam minha visão e me ajudaram a encontrar a propriedade perfeita. A atenção aos detalhes e o compromisso com a satisfação do cliente são incomparáveis."
+    name: "Richard Nelson",
+    title: "Designer UI/UX",
+    image: profile_img_2,
+    alt: "Retrato de Richard Nelson",
+    rating: 4,
+    text: "Desde a primeira reunião, eles entenderam minha visão e me ajudaram a encontrar a propriedade perfeita. A atenção aos detalhes e o compromisso com a satisfação do cliente são incomparáveis."
   },
   {
-      name: "James Washington",
-      title: "Co-Fundador",
-      image: profile_img_3,
-      alt: "Retrato de James Washington",
-      rating: 5,
-      text: "Desde a primeira reunião, eles entenderam minha visão e me ajudaram a encontrar a propriedade perfeita. A atenção aos detalhes e o compromisso com a satisfação do cliente são incomparáveis."
+    name: "James Washington",
+    title: "Co-Fundador",
+    image: profile_img_3,
+    alt: "Retrato de James Washington",
+    rating: 5,
+    text: "Desde a primeira reunião, eles entenderam minha visão e me ajudaram a encontrar a propriedade perfeita. A atenção aos detalhes e o compromisso com a satisfação do cliente são incomparáveis."
   }
 ];
